@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VariablesDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d7deb908-f4e1-4c98-97fd-88b024d0907e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1a1d959-d964-47ab-8736-f2e883142992</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>389d4625-1ab9-4924-9042-a653a365fb2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'student'</defaultValue>
+      <description></description>
+      <id>e1a1d959-d964-47ab-8736-f2e883142992</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password123'</defaultValue>
+      <description></description>
+      <id>389d4625-1ab9-4924-9042-a653a365fb2f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
