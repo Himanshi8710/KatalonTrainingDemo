@@ -25,3 +25,9 @@ WebUI.setText(findTestObject('Page_Test Login  Practice Test Automation/input_Us
 
 WebUI.setEncryptedText(findTestObject('Page_Test Login  Practice Test Automation/input_Password_password'), password)
 
+WebUI.click(findTestObject('Page_Test Login  Practice Test Automation/button_Password_submit'))
+
+WebUI.verifyTextPresent('Logged In Successfully', true)
+
+WebUI.click(findTestObject('Page_Test Login  Practice Test Automation/logout_button'))
+
